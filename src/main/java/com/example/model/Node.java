@@ -1,7 +1,7 @@
 package com.example.model;
 
-class Node {
-    int key;
-    int rank;
+public class Node {
+    public int key;
+    public int rank;
     Node root;
 }
